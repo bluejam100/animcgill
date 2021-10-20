@@ -1,7 +1,7 @@
 ## McGill Students' Anime Club
 
-![Image](https://media.discordapp.net/attachments/711807503125577728/711808527282339890/12049634_501716233330308_3167664469842559341_n.jpg)
+![MSAC welcome banner](https://media.discordapp.net/attachments/711807503125577728/711808527282339890/12049634_501716233330308_3167664469842559341_n.jpg)
 
-[https://www.facebook.com/McGillAnime](Our Facebook Page)
+[Facebook Page](https://www.facebook.com/McGillAnime)
 
-[https://discord.gg/gSAz2GC](Our Discord)
+[Discord Server](https://discord.gg/gSAz2GC)
