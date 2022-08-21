@@ -54,6 +54,9 @@ table {
 CSS reset code after here Christina!!! 
 
 */                                         
+html {
+  overflow-x: hidden;
+}
 
 body{
     width: 100vw;
